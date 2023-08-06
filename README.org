@@ -2,9 +2,8 @@
 
 
 
-6fcef2c---------+-------------------------------------------|
-6fcef2c source  | git:https://gitlab.common-lisp.net/ook/ook.git   |
-6fcef2c commit  |   |
-6fcef2c systems | ook |
-6fcef2c---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/ook/ook.git |
+| commit  | 6fcef2c                                        |
+| systems | ook                                            |
+|---------+------------------------------------------------|
